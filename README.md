@@ -6,6 +6,9 @@ Samen met [Vienna](github.com/viennam) heb ik in opdracht van het Van Gogh Museu
 ## Code
 In overleg hebben we besloten de code in een private repository te bewaren. Wij kunnen docenten als collaborators toevoegen.
 
+## Proces
+Ik heb mijn proces bijgehouden in mijn procesboek. Tot en met week 3 hebben Vienna en ik dagelijks opgeschreven wat we gedaan hebben. Dit logboek is hier te vinden: [logboek](https://docs.google.com/document/d/1BLkQk_bOpa17CeITQ_SNrY3ZHIs7yYbW8BiBdiQcFkE/edit?usp=sharing)
+
 ## Leerdoelen
 ### Mongodb
 Ik had als leerdoel om te leren werken met MongoDB. Dit is in zoverre gelukt dat wij al onze data in MongoDB opslaan. Ik heb geleerd hoe ik data op kan halen en kan opslaan/updaten. Er is nog veel te leren maar ik begrijp het in de basis en kan comfortable verder leren. Ik heb ook geleerd hoe je met mLab makkelijk een MongoDB database kan hosten. Op deze manier kan ik makkelijk een node project met database deployen via bijvoorbeeld heroku.

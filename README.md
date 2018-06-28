@@ -90,7 +90,7 @@ notification = {
     this.elements.wrapper.classList.remove("slideIn")
   }
 }
-
+```
 ## Persoonlijk aandeel
 
 ### Tooling
@@ -121,7 +121,7 @@ Voor de leuk hebben we in het design en in de CSS alleen CSS colornames gebruikt
 
   --v-valid: limegreen;
   --v-invalid: red;
-  ```
+```
 
 ### APIs en Database
 Ik heb het op me genomen om een verbinding met de database te maken en de data op te halen. In heb Node Express APIs gemaakt om deze data aan de frontend te serveren. We doen calls naar deze APIs vanuit de frontend. Dit zijn de queries de ik geschreven heb:
@@ -157,6 +157,7 @@ queries: {
 Omdat we op veel plekken in de interface "meaningful" datums nodig hadden heb ik de momentjs library toegepast. Op deze manier kunnen we in plaats van bijvoorbeeld "29-06-2018" "Vandaag" laten zien.
 
 Zie bijvoorbeeld deze helper functie:
+
 ```
 isToday: function (date) {
     if (moment(date).format("MMM DD") === moment().format("MMM DD")) {
